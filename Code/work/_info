@@ -1,0 +1,582 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Eand_1bit
+Z0 w1571783684
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Sourabh Suri/Desktop/Dadda Multiplier
+Z5 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/And_1bit.vhd
+Z6 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/And_1bit.vhd
+l0
+L6
+VBn`CY]7S5Al^;EEW67z<a0
+!s100 @P_Sh0LGVUk=C>YB?<;O80
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1572262580
+!i10b 1
+Z9 !s108 1572262580.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/And_1bit.vhd|
+Z11 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/And_1bit.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 8 and_1bit 0 22 Bn`CY]7S5Al^;EEW67z<a0
+l13
+L12
+VG6iZDiKL>mzV5mG:XmIln3
+!s100 ]2gUzLz[U5n2G^^;UV;nm2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eand_2
+Z14 w1572262574
+R1
+R2
+R3
+R4
+Z15 8C:/intelFPGA/18.1/Dadda Multiplier/Dadda_Multiplier.vhd
+Z16 FC:/intelFPGA/18.1/Dadda Multiplier/Dadda_Multiplier.vhd
+l0
+L37
+VI5CV4J5>G6LWRW1G1Uido2
+!s100 VWSibb@MZQ1nGgHCOGEd11
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/Dadda Multiplier/Dadda_Multiplier.vhd|
+Z18 !s107 C:/intelFPGA/18.1/Dadda Multiplier/Dadda_Multiplier.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 5 and_2 0 22 I5CV4J5>G6LWRW1G1Uido2
+l44
+L43
+V0nV3mJaHf:VBf3AA_KHWH1
+!s100 fQ]@3j0fm]V1_DeMR6MA53
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ebrent_kung
+Z19 w1571786957
+R1
+R2
+R3
+R4
+Z20 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Brent_Kung.vhd
+Z21 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Brent_Kung.vhd
+l0
+L6
+VKB]GUHZ[9i6lT;]EIlR8R0
+!s100 LlE:`VaNazobf?^K[OB=X3
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Brent_Kung.vhd|
+Z23 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Brent_Kung.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 brent_kung 0 22 KB]GUHZ[9i6lT;]EIlR8R0
+l62
+L13
+VTTJUeXbnKCz_Pjb_a7]8J2
+!s100 <micHY<:XkbG:TCDNY;VV0
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Ecarry_generator
+Z24 w1572103076
+R1
+R2
+R3
+R4
+Z25 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Carry_generator.vhd
+Z26 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Carry_generator.vhd
+l0
+L5
+Vb<eIHm9Lb<o04jdCO9AKd3
+!s100 cj1@^S^UnkcgEl_5O_hcZ2
+R7
+32
+Z27 !s110 1572262581
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Carry_generator.vhd|
+Z29 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Carry_generator.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 15 carry_generator 0 22 b<eIHm9Lb<o04jdCO9AKd3
+l12
+L11
+VV_SN:=o[Lh11`E3n5lem21
+!s100 =U?c;@Pz^2jzL]6O0W>IL2
+R7
+32
+R27
+!i10b 1
+R9
+R28
+R29
+!i113 1
+R12
+R13
+Edadda_mul
+Z30 w1571787112
+R1
+R2
+R3
+R4
+Z31 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dadda_Multiplier.vhd
+Z32 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dadda_Multiplier.vhd
+l0
+L6
+Vfgn12LK`W4>G2>99HC^DF2
+!s100 dK0Bi<P<BBLIN8iDR<Q3S0
+R7
+32
+R27
+!i10b 1
+Z33 !s108 1572262581.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dadda_Multiplier.vhd|
+Z35 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dadda_Multiplier.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 9 dadda_mul 0 22 fgn12LK`W4>G2>99HC^DF2
+l240
+L13
+VLfH96A<YZAQ^Qc=emG0<53
+!s100 GzMedLI7TV9Q_CF@nTlo90
+R7
+32
+R27
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13
+Edot_operator
+Z36 w1572103094
+R1
+R2
+R3
+R4
+Z37 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dot_Operator.vhd
+Z38 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dot_Operator.vhd
+l0
+L5
+Vn:5CfX=hBE=VD0^7HTAhc1
+!s100 zTE:ghA>4S;Gl5mVg0OgG0
+R7
+32
+R27
+!i10b 1
+R33
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dot_Operator.vhd|
+Z40 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Dot_Operator.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 12 dot_operator 0 22 n:5CfX=hBE=VD0^7HTAhc1
+l14
+L13
+VJLa?[]FelK1klDEbS@^m@1
+!s100 K6?C`YT6TI3UfXKl^L0b92
+R7
+32
+R27
+!i10b 1
+R33
+R39
+R40
+!i113 1
+R12
+R13
+Ef_a
+R14
+R1
+R2
+R3
+R4
+R15
+R16
+l0
+L21
+V3gGn;D:KDPjTJQU]CCPO41
+!s100 =^FH?EXUY97G]D`M8?Ulg2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 f_a 0 22 3gGn;D:KDPjTJQU]CCPO41
+l29
+L28
+VZR;3MKYAkzWdLT?=?I:Og3
+!s100 9UAO:IDdmDF;mAKURX4iS3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Efull_adder
+Z41 w1571783889
+R1
+R2
+R3
+R4
+Z42 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Full_Adder.vhd
+Z43 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Full_Adder.vhd
+l0
+L6
+VSz4JKQGaMR2kO9Uh;COD50
+!s100 ZiXYB]Sd2E]?lO^>UAej=1
+R7
+32
+R27
+!i10b 1
+R33
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Full_Adder.vhd|
+Z45 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Full_Adder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 full_adder 0 22 Sz4JKQGaMR2kO9Uh;COD50
+l14
+L13
+VARVSD?z[zPAI>Le5leci43
+!s100 G]7S2F^S<0ZLz1FB6U0;M2
+R7
+32
+R27
+!i10b 1
+R33
+R44
+R45
+!i113 1
+R12
+R13
+Eh_a
+R14
+R1
+R2
+R3
+R4
+R15
+R16
+l0
+L5
+V01EbJGkQQb_RIVDLnI7bn3
+!s100 J=^oU:BQAHBI:Qj5Q`Nh;3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 h_a 0 22 01EbJGkQQb_RIVDLnI7bn3
+l13
+L12
+V4=JT]j<dVHgI6J@NO6iVU3
+!s100 CjCRTl9b=^Sdzhibg@aMA0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ehalf_adder
+Z46 w1571783331
+R1
+R2
+R3
+R4
+Z47 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Half_Adder.vhd
+Z48 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Half_Adder.vhd
+l0
+L5
+VObDU8[c?]fhlU@NT]HkND3
+!s100 O@129kW56WGe@jH<1Wb5>2
+R7
+32
+R27
+!i10b 1
+R33
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Half_Adder.vhd|
+Z50 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Half_Adder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 half_adder 0 22 ObDU8[c?]fhlU@NT]HkND3
+l13
+L12
+VzV<cKIaLTj73M==:8I?X@2
+!s100 E30`T0;XLAl6@?]@`=:Qj2
+R7
+32
+R27
+!i10b 1
+R33
+R49
+R50
+!i113 1
+R12
+R13
+Epgblock
+Z51 w1572103108
+R1
+R2
+R3
+R4
+Z52 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/pgblock.vhd
+Z53 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/pgblock.vhd
+l0
+L6
+VoWZHjWhIISQ57h9Y3JASY0
+!s100 md;?Rb3@LRfj5IM95HgF=2
+R7
+32
+R27
+!i10b 1
+R33
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/pgblock.vhd|
+Z55 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/pgblock.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 pgblock 0 22 oWZHjWhIISQ57h9Y3JASY0
+l13
+L12
+VY0mP:iZ9IC?WePc9U<_K70
+!s100 JJi;[?0aU@GkHmZUe9V2D0
+R7
+32
+R27
+!i10b 1
+R33
+R54
+R55
+!i113 1
+R12
+R13
+Esumblock
+Z56 w1572103061
+R1
+R2
+R3
+R4
+Z57 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/SUMBLOCK.vhd
+Z58 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/SUMBLOCK.vhd
+l0
+L6
+VbZ`0X[V=Pd^79cf?^Ij>I0
+!s100 lA?R_8YiVCYz5aOFa0djG2
+R7
+32
+Z59 !s110 1572262582
+!i10b 1
+R33
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/SUMBLOCK.vhd|
+Z61 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/SUMBLOCK.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z62 DEx4 work 8 sumblock 0 22 bZ`0X[V=Pd^79cf?^Ij>I0
+l12
+L11
+Z63 V7[[6B`RH<B@EINoF0QDzS3
+Z64 !s100 PPmEz`KkTDMC>DWkL0iQ@0
+R7
+32
+R59
+!i10b 1
+R33
+R60
+R61
+!i113 1
+R12
+R13
+Etest_adder
+Z65 w1570528639
+R1
+R2
+R3
+Z66 dC:/intelFPGA/18.1/Dadda Multiplier
+Z67 8C:/Users/Sourabh Suri/Desktop/A2_183079015/Brent_Kung.vhd
+Z68 FC:/Users/Sourabh Suri/Desktop/A2_183079015/Brent_Kung.vhd
+l0
+L6
+VLcb`gXA?Kc6W5N;4hiEUi1
+!s100 JjBOUg[1=[^CE<cVEnJeZ3
+R7
+32
+Z69 !s110 1571786449
+!i10b 1
+Z70 !s108 1571786449.000000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/A2_183079015/Brent_Kung.vhd|
+Z72 !s107 C:/Users/Sourabh Suri/Desktop/A2_183079015/Brent_Kung.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 test_adder 0 22 Lcb`gXA?Kc6W5N;4hiEUi1
+l62
+L13
+VQH>a?TUHO=`G?EDdjj7GS1
+!s100 hze;XATmNQf4FCRLJ;iWZ2
+R7
+32
+R69
+!i10b 1
+R70
+R71
+R72
+!i113 1
+R12
+R13
+Etest_bench
+Z73 w1572253871
+R2
+R3
+R4
+Z74 8C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Test_Bench_Brent_Kung.vhd
+Z75 FC:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Test_Bench_Brent_Kung.vhd
+l0
+L5
+V:Q@HmhPed?66SUS8o=i>M3
+!s100 bK6B]kBPnSBICHND`<n^o0
+R7
+32
+R8
+!i10b 1
+R9
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Test_Bench_Brent_Kung.vhd|
+Z77 !s107 C:/Users/Sourabh Suri/Desktop/Dadda Multiplier/Test_Bench_Brent_Kung.vhd|
+!i113 1
+R12
+R13
+Abehave
+R2
+R3
+DEx4 work 10 test_bench 0 22 :Q@HmhPed?66SUS8o=i>M3
+l22
+L8
+V0eSGUlA^L6Ul3HYXo8Q<10
+!s100 nXajR<f7@931c7j>[ZU?a3
+R7
+32
+R8
+!i10b 1
+R9
+R76
+R77
+!i113 1
+R12
+R13

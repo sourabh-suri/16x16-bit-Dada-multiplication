@@ -1,0 +1,15 @@
+The process of Dadda multiplication is as follows:The
+entire 32 x 32 multiplication requires eight stages. Always the
+first stage is partial product stage, which is obtained by simple
+multiplication of multiplicand with multiplier. The proposed
+32-bit multiplier requires eight reduction stages with
+intermediate matrix heights of 28, 19, 13, 9, 6, 4, 3 and
+finally2.
+In Dadda implementation, in general, the numberof full
+adders required is N2
+-4N+3 and the number of half adders is
+always N-1.
+16 x 16 dadda multiplier: Adders-210
+(Full Adders-195
+Half Adders-15)
+276.51seconds

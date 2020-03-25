@@ -1,0 +1,7 @@
+Folder Contains one .bak file and 10 VHD files,
+Kindly add all the files in a model sim project and compile, simulate using Architecture of .bak file which is Test_Bench.vhd. 
+1. Test_Bench.vhd is a general Test Bench. 
+2. Dadda_Multiplier.vhd contains the main vhdl code for reduction from 16 stages t0 2 wire stages. Report shows the detalis of how it is done. Comments and Name of Instances are wriiten for clear understanding. 
+3. Carry_Generate.vhd, contains the architecture of how to generate carry. Similary, Brent_Kung.vhd, SumBlock.vhd, Dot_operator, pgBlock.vhd have usual meanings. Details from A-2 report.
+4. Full_Adder.vhd and And_1bit defined as per in question. 
+5. Half_Adder.vhd also defined as per instructed. Delay are considered for the sake of completing question-2.
