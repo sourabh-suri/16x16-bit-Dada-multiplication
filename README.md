@@ -1,4 +1,4 @@
-# 16x16-bit-Dada-multiplication
+# 16x16-bit-Dadda-multiplication
 Designing a Dadda multiplier for unsigned 16x16 bit multiplication with a Brent Kung adder for the final addition in synthesizable VHDL.
 
 Dadda multiplier is a high speed, area efficient multiplier and is therefore of great importance in high speed applications and low power consumption.
